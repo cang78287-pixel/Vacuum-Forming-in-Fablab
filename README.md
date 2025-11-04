@@ -17,9 +17,9 @@ For the group project of "Just a Group", in the Fablab scenario, we upgraded the
   </iframe>
 </div>
 
-<div align="center">
   
 ### 🎥 如果视频无法加载，请[点击这里在B站观看](https://www.bilibili.com/video/BV1pF1EBNEYt)
+### 🎥 If the video fails to load properly，please[click here to watch the Bilibili video](https://www.bilibili.com/video/BV1pF1EBNEYt)
 
 </div>
 
