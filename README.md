@@ -1,26 +1,28 @@
 # Vacuum-Forming-in-Fablab
 
 For the group project of "Just a Group", in the Fablab scenario, we upgraded the material system and core technologies of the vacuum forming process. By adopting bioplastics and vacuum bag molding technology, we achieved the greening and substitutability upgrading of the process.
+---
+
+## 项目演示视频
+
+<div align="center" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin: 20px 0;">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1pF1EBNEYt&page=1&high_quality=1&danmaku=0" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+          scrolling="no"
+          border="0"
+          frameborder="no" 
+          framespacing="0" 
+          allowfullscreen="true">
+  </iframe>
+</div>
+
 <div align="center">
-
-## 🎬 项目演示视频
-
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1pF1EBNEYt&page=1&high_quality=1&danmaku=0&autoplay=0" 
-        width="100%" 
-        height="500" 
-        scrolling="no" 
-        border="0" 
-        frameborder="no" 
-        framespacing="0" 
-        allowfullscreen="true"
-        style="border-radius: 8px;">
-</iframe>
-
-<br>
-[在B站打开原视频](https://www.bilibili.com/video/BV1pF1EBNEYt)
+  
+### 🎥 如果视频无法加载，请[点击这里在B站观看](https://www.bilibili.com/video/BV1pF1EBNEYt)
 
 </div>
 
+---
 ## 真空成型工艺生物塑料与技术改造项目描述
 ## Project Description: Modification of Vacuum Forming Process with Bioplastic in Fablab
 传统真空成型工艺依赖热塑性塑料片材，存在材料回收难度大、环境负担重等问题；同时，常规抽真空装置在操作灵活性上也难以完全满足Fablab的探索。基于此，我们团队在Fablab场景中，针对真空成型工艺的材料体系与核心技术进行改造，采用生物塑料和真空袋成型技术，实现了工艺的绿色化与可替代性升级。
