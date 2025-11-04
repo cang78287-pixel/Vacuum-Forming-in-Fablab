@@ -7,3 +7,15 @@ For the group project of "Just a Group", in the Fablab scenario, we upgraded the
 
 The traditional vacuum forming process relies on thermoplastic sheets, which pose problems such as high material recycling difficulty and heavy environmental burden. Meanwhile, conventional vacuum extraction devices are also insufficient in operational flexibility to fully meet the exploration needs of Fablabs. Based on this, our team has modified the material system and core technology of the vacuum forming process in the Fablab scenario, adopting bioplastic and vacuum bagging technology to achieve an environmentally friendly and alternative upgrade of the process.
 
+### 一、改造核心内容：材料与技术的双向突破
+### I.Core Modification Content: Dual Breakthroughs in Materials and Technology
+#### How might we reinterpret vacuum forming using bioplastic and a homemade vacuum system in Fablab
+
+1. 材料体系革新：热塑性塑料片材→生物塑料
+    
+ Innovation in Material System: Thermoplastic Sheets → Biomaterials
+ 
+2. 抽真空技术升级：常规装置→Vacuum Bagging Technology
+
+ Upgrade of Vacuum Extraction Technology: Conventional Devices → Vacuum Bagging Technology
+ 
